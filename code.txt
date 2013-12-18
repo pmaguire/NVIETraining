@@ -11,4 +11,10 @@ a change
 
 another change
 
+<<<<<<< HEAD
 some code
+=======
+bug fix! no2
+
+yet another
+>>>>>>> iteration99
