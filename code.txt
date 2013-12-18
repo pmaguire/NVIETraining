@@ -2,3 +2,5 @@ Some code!
 a change
 
 a new feature!
+
+a newer feature!
