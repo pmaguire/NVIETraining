@@ -1,2 +1,4 @@
 Some code!
 a change
+
+a new feature!
