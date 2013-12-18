@@ -1,6 +1,7 @@
 Some code!
 a change
 
+<<<<<<< HEAD
 a change
 
 a change
@@ -20,3 +21,8 @@ yet another
 >>>>>>> iteration99
 
 another fix
+=======
+a new feature!
+
+a newer feature!
+>>>>>>> awesomeFeature
